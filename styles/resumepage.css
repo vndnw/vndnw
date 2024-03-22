@@ -79,7 +79,7 @@
 }
 
 .box-line-technology .line-react {
-    width: 140px;
+    width: 120px;
     height: 1px;
     background: #fff;
     position: absolute;
@@ -89,7 +89,7 @@
 }
 
 .box-line-technology .line-angular {
-    width: 110px;
+    width: 90px;
     height: 1px;
     background: #fff;
     position: absolute;
@@ -99,7 +99,7 @@
 }
 
 .box-line-technology .line-vue {
-    width: 75px;
+    width: 60px;
     height: 1px;
     background: #fff;
     position: absolute;
