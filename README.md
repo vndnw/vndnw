@@ -1,6 +1,5 @@
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<p> My name is <b>Duyi</b>. </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=Hi+there%2C+I%27m+Duyi%EF%BC%81;console.log(%22Hello+World!%22);Stay+Hungry,+Stay+Foolish.)](https://github.com/vndnw) 
 
 ## About me
 
